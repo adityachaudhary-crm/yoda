@@ -1,5 +1,5 @@
 public with sharing class ProductManager {
     public ProductManager() {
-        System.debug('Constructor#1');
+        System.debug('Constructor#2');
     }
 }
